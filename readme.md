@@ -2,7 +2,6 @@
 
 💻 **Backend Developer** | Node.js & TypeScript  
 📍 Concepción del Uruguay, Entre Ríos, Argentina  
-🧠 *"No oxidemos conocimientos"*
 
 ---
 
